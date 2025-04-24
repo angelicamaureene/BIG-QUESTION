@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Aaaaa, yessss, yess you are cuteeee";
+  question.innerHTML = "Sikeeeeeee, it's this cutieeeee, YUKIIIIII";
   gif.src =
-    "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
+    "https://media1.tenor.com/m/Zg3Efq8h3IcAAAAC/yuki-tsunoda-zoom.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
